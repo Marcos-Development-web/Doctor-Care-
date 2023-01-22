@@ -7,7 +7,7 @@
 }
 
 :root {
-  --hue: 170;
+  --hue: 0;
   --primary-color:#f8fcf4;
   --headline: hsl(0, 0%, 0%);
   --paragraph: hsl(0, 0%, 0%);
@@ -15,8 +15,8 @@
 
   --brand-beige: #f8fcf4;
   --brand-light: #f8fcf4;
-  --brand-light-2: hsl(calc(var(--hue) + 10), 14%, 97%);
-  --brand-dark: hsl(var(--hue), 100%, 14%);
+  --brand-light-2: #f2f8e8;
+  --brand-dark: #f2f8e8;
 
   --bg-light: #fafafa;
 
@@ -351,7 +351,7 @@ body.menu-expanded button path {
 
 #home .stat h3 {
   font-size: 4.8rem;
-  color: var(--headline);
+  color: #000;
   line-height: 130%;
 
   margin-bottom: 0.4rem;
