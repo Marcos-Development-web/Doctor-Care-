@@ -738,6 +738,7 @@ footer .social-links {
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
+    background: #d3d3d3;
   }
 
   footer .col-a {
