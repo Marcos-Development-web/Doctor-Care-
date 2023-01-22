@@ -8,17 +8,17 @@
 
 :root {
   --hue: 170;
-  --primary-color: #fddab4;
+  --primary-color:#f8fcf4;
   --headline: hsl(0, 0%, 0%);
   --paragraph: hsl(0, 0%, 0%);
   --colormy: #896363;
 
-  --brand-beige: #fddab4;
-  --brand-light: #fddab4;
+  --brand-beige: #f8fcf4;
+  --brand-light: #f8fcf4;
   --brand-light-2: hsl(calc(var(--hue) + 10), 14%, 97%);
   --brand-dark: hsl(var(--hue), 100%, 14%);
 
-  --bg-light: #feeccd;
+  --bg-light: #fafafa;
 
   font-size: 62.5%; /* 1rem = 10px */
 
