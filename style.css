@@ -1,9 +1,12 @@
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+</style>
 /*=== GERAL =================================*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  Font-family: 'Open-Sans'
 }
 
 :root {
@@ -37,7 +40,7 @@ body {
 }
 
 body {
-  font-family: 'Poppins';
+  font-family: 'Open-Sans';
   font-size: 1.6rem;
 
   text-align: center;
