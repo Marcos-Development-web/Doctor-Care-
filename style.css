@@ -8,13 +8,13 @@
 
 :root {
   --hue: 0;
-  --primary-color:#f8fcf4;
+  --primary-color:#D3D3D3;
   --headline: hsl(0, 0%, 0%);
   --paragraph: hsl(0, 0%, 0%);
   --colormy: #000;
 
-  --brand-beige: #f8fcf4;
-  --brand-light: #f8fcf4;
+  --brand-beige: #d3d3d4;
+  --brand-light: #D3D3D3;
   --brand-light-2: #f2f8e8;
   --brand-dark: #f2f8e8;
 
@@ -70,7 +70,7 @@ section header h4 {
   font-weight: 700;
   line-height: 150%;
   letter-spacing: 0.08rem;
-  color: #fff;
+  color: #101010;
 
   text-transform: uppercase;
 
