@@ -733,6 +733,7 @@ footer .social-links {
   /*=== FOOTER =================================*/
   footer {
     padding-block: 8rem;
+background: #d3d3d3;
   }
 
   footer .wrapper {
