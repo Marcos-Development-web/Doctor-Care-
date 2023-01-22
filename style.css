@@ -680,7 +680,8 @@ footer .social-links {
   }
 
   #home img {
-    width: 42rem;
+    width: 43rem;
+    padding-top: 10px;
   }
 
   .imagem{
