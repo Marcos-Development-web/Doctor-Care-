@@ -9,8 +9,6 @@
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 com algumas modificações.
 
-- Versão Final: [Doctor-care](https://marcelo-abreeu.github.io/DoctorCare/)
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -24,10 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Google Fonts](https://fonts.google.com/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 
-
-
------
-
-  <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
 
 
