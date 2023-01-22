@@ -1,5 +1,5 @@
 <h1 align="center">
-  🩺 DoctorCare
+  🩸 DoctorCare
 </h1>
 
 <img src="assets/screenshotsite.jpeg">
