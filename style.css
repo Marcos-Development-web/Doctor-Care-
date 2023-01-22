@@ -8,10 +8,10 @@
 
 :root {
   --hue: 170;
-  --primary-color: #fffaf0;
+  --primary-color: #896363;
   --headline: hsl(0, 0%, 0%);
   --paragraph: hsl(210, 5%, 53%);
-  --colormy: linear-gradient(45deg, black, #00856f);
+  --colormy: #896363;
 
   --brand-beige: #fffaf0;
   --brand-light: #025959;
