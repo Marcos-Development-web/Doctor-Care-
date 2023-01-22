@@ -428,12 +428,12 @@ body.menu-expanded button path {
 
 /*=== FOOTER =================================*/
 footer {
-  background: #025959;
+  background: #d3d3d3;
   padding-block: 6rem;
 
   text-align: left;
 
-  color: #00856f;
+  color: #000;
 }
 
 footer .logo {
@@ -738,7 +738,6 @@ footer .social-links {
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
-    background: #d3d3d3;
   }
 
   footer .col-a {
