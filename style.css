@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
-
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('../fonts/CooperHewitt-Light.woff') format('woff'),
+    url('../fonts/CooperHewitt-Thin.woff') format('woff');
 /*=== GERAL =================================*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  Font-family: 'Open-Sans'
+  Font-family: 'Cooper Hewitt'
 }
 
 :root {
@@ -39,7 +42,7 @@ body {
 }
 
 body {
-  font-family: 'Open-Sans';
+  font-family: 'Cooper Hewitt';
   font-size: 1.6rem;
 
   text-align: center;
