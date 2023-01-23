@@ -74,8 +74,6 @@ section header h4 {
   letter-spacing: 0.08rem;
   color: #101010;
 
-  text-transform: uppercase;
-
   margin-bottom: 1.6rem;
 }
 
@@ -260,7 +258,6 @@ body.menu-expanded .menu {
   font-weight: 700;
   font-size: 1.8rem;
   line-height: 2.3rem;
-  text-transform: uppercase;
   text-decoration: none;
 
   color: black;
@@ -289,11 +286,11 @@ body.menu-expanded button {
 }
 
 body.menu-expanded .logo path {
-  fill: #00856f;
+  fill: #ffffff;
 }
 
 body.menu-expanded button path {
-  stroke: #00856f;
+  stroke: #ffffff;
 }
 
 /*=== #HOME =================================*/
@@ -568,7 +565,6 @@ footer .social-links {
     font-weight: 700;
     font-size: 1.4rem;
     line-height: 1.8rem;
-    text-transform: uppercase;
   }
 
   nav#navigation .menu a.button:hover {
